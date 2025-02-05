@@ -3,4 +3,9 @@ In the past couple weeks many governement websites have been sensored or restric
 
 
 ## Submitting information/site build requests
-To submit requests to add items to the site please use the contact form on the site.
+To submit requests to add items to the site please use the [contact](https://vigilant-pancake.github.io/land-of-the-free/contact.html) form on the site.
+Include a link to the change (on wayback or other site showing the change) and some details on what changed.
+
+
+## Contributing
+To help build this project fill out the contact for with the subject containg "Contribution Application" and the message containing your github username.
